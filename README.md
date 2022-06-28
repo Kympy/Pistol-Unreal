@@ -1,7 +1,9 @@
-# Pistol : Unreal 5 TPS 게임 프로젝트
+# Pistol : Unreal 5 TPS 게임 프로젝트 (2022.06.15 ~ 제작 중)
 
 
 + 개요
+
+  ![image](https://user-images.githubusercontent.com/65384983/176102548-601864e0-83ac-4fb9-9816-fc11a839b9bb.png)
   
   - Unreal 5 로 TPS 장르의 간단한 게임을 스스로 기획하고 제작하는 것에 의의를 둔다.
   - 기본적으로 플레이어는 게임 이름과 컨셉에 맞게 권총 한자루와 사막의 마을을 배경으로 게임을 진행한다.
@@ -12,6 +14,7 @@
 
 + 제작 과정
 
-    하단 블로그를 통해 제작과정을 연재하였다.
+    일상의 시간적 여유가 다소 부족하여 매주 주말을 활용하여 틈틈히 제작 중에 있다.
+    하단의 블로그를 통해 제작과정을 연재하였다.
     
     https://wildgoosechase.tistory.com/category/%EA%B2%8C%EC%9E%84%20%EC%97%94%EC%A7%84/%EC%96%B8%EB%A6%AC%EC%96%BC5
