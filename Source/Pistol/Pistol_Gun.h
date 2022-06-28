@@ -46,5 +46,5 @@ private:
 	float MaxRange = 10000;
 
 	UPROPERTY(EditAnywhere, Category="Attack")
-	float PrimaryDamage = 10;
+	float PrimaryDamage = 100;
 };
