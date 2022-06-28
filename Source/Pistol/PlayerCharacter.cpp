@@ -16,7 +16,6 @@ void APlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 	Health = MaxHealth; // 체력 초기화
-	CanShoot = true; // 처음 시작 시에는 첫 발 사격이 가능함
 	FireTimer = 0; // 발사 시간 초기화
 	GetWorldTimerManager().SetTimer(Handle, this, &APlayerCharacter::CheckFireRate, 0.2f, true); // 타이머를 일정 초 마다 호출
 	Gun = GetWorld()->SpawnActor<APistol_Gun>(GunClass); // 무기를 소환
